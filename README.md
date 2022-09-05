@@ -26,4 +26,4 @@ https://data-class-mars-facts.s3.amazonaws.com/Mars_Facts/index.html
 
 https://marshemispheres.com
 
-<img width="190" alt="hemisphere_displayed" src="https://user-images.githubusercontent.com/107224097/188504675-294f7b83-a694-47d2-b003-14be75ae0a3d.PNG">
+<img width="176" alt="hemisphere_displayed" src="https://user-images.githubusercontent.com/107224097/188505030-2dae496e-0ff3-42ce-92a9-ff9707176114.png">
