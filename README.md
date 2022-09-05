@@ -11,12 +11,17 @@ In order to make this page more responsive to mobile users, changes were made to
 ## Resources
 
 Python
+
 Jupyter Notebook
+
 MongoDB
+
 Bootstrap 3
 
 ## Sites Scraped
 
 https://data-class-jpl-space.s3.amazonaws.com/JPL_Space
+
 https://data-class-mars-facts.s3.amazonaws.com/Mars_Facts/index.html
+
 https://marshemispheres.com
