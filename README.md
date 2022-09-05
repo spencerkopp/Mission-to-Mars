@@ -6,7 +6,9 @@ The purpose of this project is to use MongoDB to store content from web scraping
 
 ## Results
 
-In order to make this page more responsive to mobile users, changes were made to "container-fluid" in index.hml. These changes will result in the container displaying at the full width of the user's viewport. The scrape data button was also changed, so that it would not take up less space. The webpage title text was changed with the jumbotron-fluid modifier class, so that it will appear at full width with different viewports, and bolded for increased visibility. An example of a few of these changes, and how the site appears to a mobile user can be found in the resources folder.
+In order to make this page more responsive to mobile users, changes were made to "container-fluid" in index.hml. These changes will result in the container displaying at the full width of the user's viewport. The scrape data button was also changed, so that it would not take up less space. The webpage title text was changed with the jumbotron-fluid modifier class, so that it will appear at full width with different viewports, and bolded for increased visibility. An example of a few of these changes, and how the site appears to a mobile user can be found in the resources folder. 
+
+Key components including: Mission_to_Mars_Challenge.ipynb, scraping.py, app.py and index.html can be found in the apps folder.
 
 ## Resources
 
